@@ -1,0 +1,5 @@
+[gerrit]
+host=review.blissroms.com
+port=29418
+project=platform_external_chromium-webview.git
+defaultbranch=new-mm6.0
